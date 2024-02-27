@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     downloadButton.addEventListener('click', function () {
        
-        var downloadLink = 'SD.pdf';
+        var downloadLink = 'developer_resume_dsj.pdf';
         window.open(downloadLink, '_blank');
     });
 });
